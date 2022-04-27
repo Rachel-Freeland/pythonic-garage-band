@@ -23,6 +23,9 @@
 
 ### Tests
 
-- How did you run tests?
-- Any tests of note?
+- How did you run tests? Used Pytest
+- Any tests of note? No
 - Describe any tests that you did not complete, skipped, etc.
+
+Ran testing using Pytest. 16 tests performed --> 16 tests passed
+
